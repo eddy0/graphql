@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "xiao",
+      "age": 25,
+      "companyId": "1",
+      "id": "Uv3XPbv"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "google"
+    },
+    {
+      "id": "2",
+      "name": "apple"
+    }
+  ]
+}
