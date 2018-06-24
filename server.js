@@ -3,7 +3,9 @@ const log = console.log.bind(console)
 const express = require('express')
 const expressGraphQL = require('express-graphql')
 
+
 const app = express()
+
 
 const congfigApp = () => {
     const schema = require('./schema/schema')
